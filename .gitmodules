@@ -1,0 +1,4 @@
+[submodule "Dependencies/PsxMemCard"]
+	path = Dependencies/PsxMemCard
+	url = https://github.com/L-proger/PsxMemCard.git
+	branch = master
