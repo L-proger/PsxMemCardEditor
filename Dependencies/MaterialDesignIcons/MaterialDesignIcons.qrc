@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/MaterialDesignIcons">
+        <file>MaterialDesignIconsFont.ttf</file>
+        <file>MaterialDesignIcons.js</file>
+    </qresource>
+</RCC>
